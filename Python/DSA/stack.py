@@ -22,8 +22,8 @@ stack.push(1)
 stack.push(2)
 stack.push(3)
 
-print(stack.pop())  # Output: 3
-print(stack.pop())  # Output: 2
-print(stack.isEmpty())  # Output: False
-print(stack.pop())  # Output: 1
-print(stack.isEmpty())  # Output: True
+print(stack.pop())
+print(stack.pop())
+print(stack.isEmpty())
+print(stack.pop())
+print(stack.isEmpty())
